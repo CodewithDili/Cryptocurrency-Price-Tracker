@@ -1,0 +1,3 @@
+Flask==2.2.0
+requests==3.3.2
+plotly==24.1
